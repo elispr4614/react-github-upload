@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <h1>Hello, React!</h1>
-      <p>This is for 4.2pa</p>
+      <p>This is a react application</p>
     </div>
   );
 }
